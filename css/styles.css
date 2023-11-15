@@ -1,8 +1,8 @@
 /*Settings*/
 body {
     font-family: "Roboto", sans-serif;
-    font-weight: 400
-    color: #434455;
+    font-weight: 400; 
+    color:  #434455;
     background: #FFF;
 }
 ul, ol {
@@ -60,18 +60,7 @@ a {text-decoration: none;}
 .title {
     background-color: #2E2F42;
 }
-.visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
-    white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0 0 0 0);
-    overflow: hidden;
-}
+
 .page-title {
         text-align: center;
         font-size: 56px;
